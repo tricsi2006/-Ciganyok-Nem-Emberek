@@ -4,4 +4,7 @@
 
 sima szöveg.
 
-  -
+Miért nem azok?
+                - mert cigányok
+  
+
