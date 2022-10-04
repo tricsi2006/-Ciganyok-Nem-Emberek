@@ -1,10 +1,5 @@
-# -Ciganyok-Nem-Emberek
-## meg a niggerek is
+[link](url)
 
-
-sima szöveg.
-
-Miért nem azok?
-                - mert cigányok
+`egysoros kód`
   
 
